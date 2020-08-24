@@ -7,8 +7,8 @@ Jump into any of these topics!
 * List of Topics We Will be Covering in this Repo.
 
     * List of Topics for Git & GitHub
-        - [First Time: Download and Install GIT & First time set up GITHub]()
-        - [First Time: Set up SSH Key for Mac & Windows](./git.md)
+        - [First Time: Download and Install GIT & First time set up GITHub](./git.md)
+        - [First Time: Set up SSH Key for Mac & Windows](./ssh.md)
 
     * List of Topics for CMD & Terminal 
         - [Day to Day Unix/Linux Command]()
