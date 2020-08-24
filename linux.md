@@ -52,11 +52,9 @@
 > head | The head command is used to view the first lines of any text file. For example, if you only want to show the first five lines, type head -n 5 filename.ext.
 > tail | This one has a similar function to the head command, but instead of showing the first lines, the tail command will display the last ten lines of a text file. For example, tail -n filename.ext.
 > diff | Short for difference, the diff command compares the contents of two files line by line. After analyzing the files, it will output the lines that do not match. Programmers often use this command when they need to make program alterations instead of rewriting the entire source code.
-
 The simplest form of this command is diff file1.ext file2.ext
 > chmod | chmod is another Linux command, used to change the read, write, and execute permissions of files and directories. i,e [chmod 754 myfile](https://www.computerhope.com/unix/uchmod.htm)
 > chown | transfer the ownership of a file to the specified username
 > kill | process identification number (PID) of the program you want to kill. i.e. kill [signal option] PID.
 > ps ux | process identification number (PID) of the program 
->man | Manual Instruction of any command 
-
+> man | Manual Instruction of any command 
