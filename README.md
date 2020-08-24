@@ -11,7 +11,7 @@ Jump into any of these topics!
         - [First Time: Set up SSH Key for Mac & Windows](./ssh.md)
 
     * List of Topics for CMD & Terminal 
-        - [Day to Day Unix/Linux Command]()
+        - [Day to Day Unix/Linux Command](./linux.md)
 
     * List of Topics for Java Selenium Project
         - [First Time: Download & Install Java for MAC]()
