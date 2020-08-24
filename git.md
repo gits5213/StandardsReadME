@@ -2,8 +2,9 @@
 
 <!-- topics-start -->
 * [Checking for existing SSH keys](#Checking-for-existing-SSH-keys)
-* [Generating a new SSH key and adding it to the ssh-agent](Generating-a-new-SSH-key-and-adding-it-to-the-ssh-agent)
-* [Adding your SSH key to the ssh-agent](Adding-your-SSH-key-to-the-ssh-agent)
+* [Generating a new SSH key and adding it to the ssh-agent](Generating-a-new-SSH-key-and-adding-it-to-the-sshAgent)
+* [Adding your SSH key to the ssh-agent](Adding-your-SSH-key-to-the-sshAgent)
+* [Adding a new SSH key to your GitHub account](Adding-a-new-SSH-key-to-your-GitHub-account)
 
 ## Checking for existing SSH keys
 ### Before you generate an SSH key, you can check to see if you have any existing SSH keys.
@@ -56,5 +57,40 @@
     $ open ~/.ssh/config
     > The file /Users/you/.ssh/config does not exist.
     ```
+    - If the file doesn't exist, create the file.
+    ```
+    $ touch ~/.ssh/config
+    ```
+    - Open your ~/.ssh/config file, then modify the file, replacing ~/.ssh/id_rsa if you are not using the default location and name for your id_rsa key.
+    ```
+    Host *
+    AddKeysToAgent yes
+    UseKeychain yes
+    IdentityFile ~/.ssh/id_rsa
+    ```
+    - Add your SSH private key to the ssh-agent and store your passphrase in the keychain. If you created your key with a different name, or if you are adding an existing key that has a different name, replace id_rsa in the command with the name of your private key file.
+    ```
+    $ ssh-add -K ~/.ssh/id_rsa
+    ```
+
+    # Adding a new SSH key to your GitHub account
+    ### To configure your GitHub account to use your new (or existing) SSH key, you'll also need to add it to your GitHub account.
+
+    - Copy the SSH key to your clipboard.
+    - If your SSH key file has a different name than the example code, modify the filename to match your current setup. When copying your key, don't add any newlines or whitespace.
+    ```
+    $ pbcopy < ~/.ssh/id_rsa.pub
+    # Copies the contents of the id_rsa.pub file to your clipboard
+    ```
+    - LogInto GitHub and In the upper-right corner of any page, click your profile photo, then click Settings.
+    - In the user settings sidebar, click SSH and GPG keys.
+    - Click New SSH key or Add SSH key.
+    - In the "Title" field, add a descriptive label for the new key. For example, if you're using a personal Mac, you might call this key "Personal MacBook Air".
+    - Paste your key into the "Key" field.
+    - Click Add SSH key.
+    - If prompted, confirm your GitHub password.
+
+
+    
 
 
