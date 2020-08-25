@@ -28,10 +28,7 @@
 - Start up Terminal
 - Type ```cd ~/``` to go to your home folder
 - Type ```touch .bash_profile``` to create your new file.
-- Open .bash_profile
-```
-open .bash_profile
-```
+- Open .bash_profile ```open .bash_profile```
 
 ### For Java 
 - Validate JDK Version: From Laptop –> ```Shift + Command + G ``` then enter ```/Library/Java/JavaVirtualMachines/jdkXXXXXX ```
