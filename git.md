@@ -96,7 +96,7 @@
 > git cherry-pick (Cherry picking in Git means to choose a commit from one branch and apply it onto another.)
 > git rebase (: git rebase -i master: Clean up the history of your dev branch with an interactive rebase)
 
-### git rebase -i fires up an editor and gives you a list of commits on you branch. There is a default pick operation in front of each. If you keep pick nothing will change. You can replace pick with other operations.
+> git rebase -i fires up an editor and gives you a list of commits on you branch. There is a default pick operation in front of each. If you keep pick nothing will change. You can replace pick with other operations.
     - "squash" the commit into the previous one, prompt for change description
     - "fixup" of previous commit, which automatically retains its original description
     - "edit" the contents and description of commit
