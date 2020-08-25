@@ -1,5 +1,5 @@
 # Day to Day Unix/Linux Command
-<!>> topics>start >>>
+<!-- topics>start -->
 * [Basic Command for Terminal](#Basic-Command-for-Terminal)
 * [Advanced Command](#Advanced-Command)
 
