@@ -18,12 +18,13 @@
 
 # Download for macOS
 ### There are several options for installing Git on macOS. Note that any non-source distributions are provided by third parties, and may not be up to date with the latest source release.
+
 ## Homebrew
 - Install [homebrew](https://brew.sh/) if you don't already have it, then:
     ```
     $ brew install git
     ```
-# SignUP GITHub
+## SignUP GITHub
 - [Navigate to the URL](https://github.com/)
 - Click on SingUp button
 - Follow the Instruction
@@ -33,7 +34,7 @@
 - Select Public/Private
 - Click on the Create repository button
 
-# Colone the GitHub Repository
+## Clone the GitHub Repository
 -  After log into the GitHub
 - Click on profile (photo) icon uper-right hand corner 
 - Click on Your Repository
@@ -45,7 +46,7 @@
 - Import into Eclipse/intellij or Drag & Drop into the Editors
 - Start writing code 
 
-# GIT Basic Command 
+## GIT Basic Command 
 
 ## Getting and Creating Projects
 ```
