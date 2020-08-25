@@ -22,10 +22,7 @@
 - Navigate to [Maven website](https://maven.apache.org/download.cgi)
 - Click on First zipfile or 2nd zipfile and download
 - Then extract the zipfolder
-- Move extracted folder to Application folder 
-```
-mv apache-maven-xxxx /Application
-```
+- Move extracted folder to Application folder ```mv apache-maven-xxxx /Application```
 
 ### Create & Set Up bash_profile for Java and Maven 
 - Start up Terminal
@@ -53,10 +50,7 @@ open .bash_profile
 - Validate > which mvn
 
 - Save & Close .bash_profile
-- Open .bash_profile with editor like: vi/neno
-```
-> vi ~/.bash_profile
-```
+- Open .bash_profile with editor like: vi/neno```> vi ~/.bash_profile```
 - Press ESC + E (edit)
 - Shift + : wq --> Press enter (Save & Quit)
 - ```> source ~/.bash_profile```
