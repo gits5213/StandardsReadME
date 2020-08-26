@@ -1,12 +1,10 @@
 # Set up Java & Maven for Windows
 
 <!-- topics-start -->
-* [What is a JDK](#What-is-a-JDK)
-* [The installation process is very straight forward](#The-installation-process-is-very-straight-forward)
-* [Download Maven](#Download-Maven)
-* [Create & Set Up bash_profile for Java and Maven ](#Create-&-Set-Up-bash_profile-for-Java-and-Maven)
-* [For Java](#For-Java)
-* [For Maven](#For-Maven)
+* [Download JAVA](#Download-JAVA)
+* [JAVA Vlidation](#JAVA-Vlidation)
+* [Download Mavaen](#Download-Mavaen)
+* [Maven Vlidation](#Maven-Vlidation)
 
 ## Download JAVA
 - [Download JAVA](https://www.oracle.com/java/technologies/javase-downloads.html)
@@ -24,7 +22,7 @@
 - In latest Windows 10, it will prompt a dialog box, clicks on ```New button``` and add this 
     - ```%JAVA_HOME%\bin```
 
-
+## JAVA Vlidation
 - Press Windows key, type ```cmd``` and clicks on the ```Command Promt```
 - Validation: Enter 
     - ```java -version``` It will appear the version messages. 
@@ -42,8 +40,7 @@
 - In system variables, find & Select ```PATH``` clicks on the ```Edit...``` button. In “Edit environment variable” dialog, clicks on the ```New button``` and add this 
     - ```%MAVEN_HOME%\bin```
 
-
+## Maven Vlidation
 - Press Windows key, type ```cmd``` and clicks on the ```Command Promt```
 - Validation: Enter 
     - ```mvn -version``` It will appear the version messages. 
-    
