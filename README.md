@@ -1,5 +1,5 @@
 # Standards
-This repository is the source for the IT Training & Consultant Inc. Software Development and Full Stack SQA Engineering Standards and best practices documentation.
+This repository is the source for the IT Training & Consultant Inc. Software Development, Full Stack SQA Engineering & Code4Kids Standards and best practices documentation.
 
 # Get Started
 Jump into any of these topics!
@@ -20,8 +20,8 @@ Jump into any of these topics!
         - [How to: Download & Install Java for Windows](./howTo/javaMavenWindow.md)
         - [How to: Download & Install Maven for Windows](./howTo/javaMavenWindow.md)
         - [How to: Set up Environment variable for Windows](./howTo/javaMavenWindow.md)
-        - [How to: Create Maven Project from Mac & Windows](./howTo/createMavenJavaProject.md)
-        - [How to: Import project into Eclipse from local computer]()
-        - [How to: Set up Selenium Project]()
-        - [How to: Set up TestNG into Selenium Project]()
+        - [How to: Create a Java Maven Selnium Project from Mac & Windows](./howTo/createMavenJavaProject.md)
+        - [How to: Import a project into Eclipse from local computer](./howTo/createMavenJavaProject.md)
+        - [How to: Set up First Test case in Selenium Project]()
+        - [How to: Set up BaseTest into Selenium Project]()
         - [How to: Set up Page Object Model into Selenium Project]()
