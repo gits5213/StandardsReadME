@@ -5,12 +5,12 @@
 * [Download for macOS](#Download-for-macOS)
 * [SignUP GITHub](#SignUP-GITHub)
 * [Colone the GitHub Repository](#Colone-the-GitHub-Repository)
-* [Getting and Creating Projects](Getting-and-Creating-Projects)
-* [Basic Snapshotting](Basic-Snapshotting)
-* [Branching and Merging](Branching-and-Merging)
-* [Sharing and Updating Projects](Sharing-and-Updating-Projects)
-* [Inspection and Comparison](Inspection-and-Comparison)
-* [Patching](Patching)
+* [Getting and Creating Projects](#Getting-and-Creating-Projects)
+* [Basic Snapshotting](#Basic-Snapshotting)
+* [Branching and Merging](#Branching-and-Merging)
+* [Sharing and Updating Projects](#Sharing-and-Updating-Projects)
+* [Inspection and Comparison](#Inspection-and-Comparison)
+* [Patching](#Patching)
 
 # Download GIT
 - [Navigate to the URL](https://git-scm.com/downloads)
