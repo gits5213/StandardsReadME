@@ -3,7 +3,7 @@
 <!-- topics-start -->
 * [Create Java Maven Selenium Project](#Create-Java-Maven-Selenium-Project)
 * [Import Project into Eclipse](#Import-Project-into-Eclipse)
-* [Adding dependencies into pom.xml file](#Adding-dependencies-into-pom-xml-file)
+* [Adding dependencies into pom-xml file](#Adding-dependencies-into-pom-xml-file)
 
 ### If you already don't have Java & Maven In your system, go ahead download and install and set up environment for windows and set up .bash_profile for MAC, Follow the seperate readme file.
 
@@ -32,7 +32,7 @@
 - Click on the Browse & Select the project from the System (which is you just created - boa)
 - Click on Finish
 
-## Adding dependencies into pom.xml file
+## Adding dependencies into pom-xml file
 - Open pom.xml file
 - Inside dependencies add your Selenium, TestNG, ChromDriver dependency
 - Navigate to [MVN Repository](https://mvnrepository.com/)
@@ -69,4 +69,4 @@
     - Right click on the project > Click on the Refresh 
     - Vlidate: Referenced Library apears inside the project. and you are good to go.
     - Start create your packages and clases to do your test cases
-        
+    
