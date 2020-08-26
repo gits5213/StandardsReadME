@@ -20,7 +20,7 @@ Jump into any of these topics!
         - [How to: Download & Install Java for Windows](./howTo/javaMavenWindow.md)
         - [How to: Download & Install Maven for Windows](./howTo/javaMavenWindow.md)
         - [How to: Set up Environment variable for Windows](./howTo/javaMavenWindow.md)
-        - [How to: Create Maven Project from Mac & Windows]()
+        - [How to: Create Maven Project from Mac & Windows](./howTo/createMavenJavaProject.md)
         - [How to: Import project into Eclipse from local computer]()
         - [How to: Set up Selenium Project]()
         - [How to: Set up TestNG into Selenium Project]()
