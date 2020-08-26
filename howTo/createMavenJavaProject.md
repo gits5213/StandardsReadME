@@ -2,7 +2,7 @@
 
 <!-- topics-start -->
 * [Maven 5 minute](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
-* [Create Java Maven Selenium Project](#Create-Java-Maven-Selenium-Project)
+* [Create a Java Maven Selenium Project](#Create-Java-Maven-Selenium-Project)
 * [Import Project into Eclipse](#Import-Project-into-Eclipse)
 * [Adding dependencies into pom-xml file](#Adding-dependencies-into-pom-xml-file)
 
