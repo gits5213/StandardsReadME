@@ -63,7 +63,7 @@
     - NOTE: PAST It inside ```<dependencies>```
     - Now once you done that
     - Go back to CMD/Terminal & perform 3 maven command ```mvn clean, mvn compile & mvn eclipse:eclipse```
-    - Vlidate: BUILD SUCCESSFULL
+    - Vlidate: BUILD SUCCESS
 
     - Return to Eclipse and Refresh project 
     - Right click on the project > Click on the Refresh 
