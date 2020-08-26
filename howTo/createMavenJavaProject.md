@@ -6,7 +6,7 @@
 * [Import Project into Eclipse](#Import-Project-into-Eclipse)
 * [Adding dependencies into pom-xml file](#Adding-dependencies-into-pom-xml-file)
 
-### If you already don't have Java & Maven In your system, go ahead download and install and set up environment for windows and set up .bash_profile for MAC, Follow the seperate readme file.
+#### If you already don't have Java & Maven In your system, go ahead download and install and set up environment for windows and set up .bash_profile for MAC, Follow the seperate readme file.
 
 ## Create Java Maven Selenium Project
 - Pre-requirement: Java & Maven work for the System.
