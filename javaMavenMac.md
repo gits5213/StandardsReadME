@@ -1,4 +1,4 @@
-# Set up Java & Maven for Mac & Windows
+# Set up Java & Maven for Mac
 
 <!-- topics-start -->
 * [What is a JDK](#What-is-a-JDK)

@@ -14,12 +14,12 @@ Jump into any of these topics!
         - [Day to Day Unix/Linux Command](./linux.md)
 
     * List of Topics for Java Selenium Project
-        - [First Time: Download & Install Java for MAC](./javaMaven.md)
-        - [First Time: Download & Install Maven for MAC](./javaMaven.md)
-        - [First Time: Set up .bash_profile for Mac](./javaMaven.md)
-        - [First Time: Download & Install Java for Windows](./javaMaven.md)
-        - [First Time: Download & Install Maven for Windows](./javaMaven.md)
-        - [First Time: Set up Environment variable for Windows](./javaMaven.md)
+        - [First Time: Download & Install Java for MAC](./javaMavenMac.md)
+        - [First Time: Download & Install Maven for MAC](./javaMavenMac.md)
+        - [First Time: Set up .bash_profile for Mac](./javaMavenMac.md)
+        - [First Time: Download & Install Java for Windows](./javaMavenWindow.md)
+        - [First Time: Download & Install Maven for Windows](./javaMavenWindow.md)
+        - [First Time: Set up Environment variable for Windows](./javaMavenWindow.md)
         - [First Time: Create Maven Project from Mac & Windows]()
         - [First Time: Import project into Eclipse from local computer]()
         - [First Time: Set up Selenium Project]()
