@@ -29,7 +29,7 @@
 - In old version of Windows, it will prompt dialog box to edit the values directly, append this ```%JAVA_HOME%\bin;``` to the end of the line. DO NOT Delete anything. 
 - In latest Windows 10, it will prompt a dialog box, clicks on ```New button``` and add this 
     - ```%JAVA_HOME%\bin```
-  ![JAVA_HOME_bin](../../../add-JAVA-HOME-Windows.webp)
+  ![JAVA_HOME_bin](/images/windows/add-JAVA-HOME-Windows.webp)
 
 - Validation: Open CMD Commnad prompt and Type 
     - ```java -version``` It will appear the version messages. 
