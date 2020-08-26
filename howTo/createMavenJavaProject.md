@@ -11,11 +11,13 @@
 - Pre-requirement: Java & Maven work for the System.
 - Open CMD/Terminal
 - Change Directory (cd) as you wish to create a new project
+- Copy and past below command on the CMD/Terminal
 
     > mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
 
 - Change ```com.mycompany.app``` to your company & project name i.e. ```com.ittci.boa```
 - Change ```my-app ``` to your project name i.e. ```boa```
+- Hit enter on the keyboard
 - Vlidate: ```Build Success```
 - Change Directory(cd) to project which is just created i.e. ```cd boa```
 - Enter: ```mvn clean``` 
