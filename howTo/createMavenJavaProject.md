@@ -1,6 +1,7 @@
 # How to create a Java Maven Selenium project?
 
 <!-- topics-start -->
+* [Maven 5 minute](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
 * [Create Java Maven Selenium Project](#Create-Java-Maven-Selenium-Project)
 * [Import Project into Eclipse](#Import-Project-into-Eclipse)
 * [Adding dependencies into pom-xml file](#Adding-dependencies-into-pom-xml-file)
@@ -24,19 +25,19 @@
 - Vlidate: ```Build Success```
 - Enter: ```mvn compile```
 - Vlidate: ```Build Success```
-- If you using Eclipse as a IDE using below command otherwise not for compatible with Eclipse
+- If you using Eclipse as a IDE use below command otherwise not for compatible with Eclipse
 - Enter: ```mvn eclipse:eclipse```
 - Vlidate: ```Build Success```
 
 ## Import Project into Eclipse
 - Open up your eclipse
 - File > Import > General > Existing projects into Workspace > Next 
-- Click on the Browse & Select the project from the System (which is you just created - boa)
-- Click on Finish
+- Click on the ```Browse``` & Select the project from the System (which is you just created - boa)
+- Click on ```Finish```
 
 ## Adding dependencies into pom-xml file
-- Open pom.xml file
-- Inside dependencies add your Selenium, TestNG, ChromDriver dependency
+- Open ```pom.xml``` file from the project
+- Inside ```dependencies``` add your ```Selenium, TestNG, ChromDriver dependency```
 - Navigate to [MVN Repository](https://mvnrepository.com/)
 - Search for ```Selenium Java```|```Testng```| ```Selenium Chrome Driver```
 - Click on the ```Selenium Java```|```Testng```| ```Selenium Chrome Driver``` > Click on the Highest ```Usages``` Version numer
