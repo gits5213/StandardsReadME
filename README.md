@@ -1,5 +1,5 @@
 # Standards
-This repository is the source for the IT Training & Consultant Inc. Software Development, Full Stack SQA Engineering & Code4Kids Standards and best practices documentation.
+This repository is the source for the IT Training & Consultant Inc. Software Development, Full Stack SQA Engineering & Code4Kids Standards and best practices documentation. More info: [IT Training & Consultant Inc.](https:www.onetechi.com)
 
 # Get Started
 Jump into any of these topics!
