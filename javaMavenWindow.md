@@ -13,7 +13,7 @@
 - Extract the Folder 
 - double Click on it > Click > Click > Finish
 - Press Windows key, type ```adva``` and clicks on the ```View advanced system settings```
-- clicks on the ```Environment Variables```
+- Clicks on the ```Environment Variables```
 - In ```System variables``` clicks ```New...``` button to add a new JAVA_HOME variable and point it to the JDK installed folder.
     - JAVA_HOME
     - C:\Program Files\Java\jdkxxxx
@@ -32,7 +32,7 @@
 - Download "Binary zip archive" File
 - Extract the file
 - Press Windows key, type ```adva``` and clicks on the ```View advanced system settings```
-- clicks on the ```Environment Variables```
+- Clicks on the ```Environment Variables```
 - In System Properties dialog, select ```Advanced tab``` and clicks on the ```Environment Variables...``` button.
 - In ```Environment variables``` dialog, System variables, Clicks on the ```New...``` button and add a 
     - ```MAVEN_HOME``` 
