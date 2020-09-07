@@ -26,3 +26,6 @@ Jump into any of these topics!
         - [How to: Configure BaseTest into Java Selenium Maven Project](https://github.com/msz5213/POM_TestNG_CompleteFramework/blob/master/src/TestCases/BaseTest.java)
         - [How to: Configure Base Page Object Model into Java Selenium Maven Project](https://github.com/msz5213/POM_TestNG_CompleteFramework/blob/master/src/TestPages/BasePage.java)
         - [How to: Configure Page Object Model into Java Selenium Maven Project](https://github.com/msz5213/POM_TestNG_CompleteFramework/blob/master/src/TestPages/SignInLandingPage.java)
+
+    * How to Install PostgreSQL & pgAdmin 4
+        - [Day to Day Unix/Linux Command](./howTo/pstgresql.md)
