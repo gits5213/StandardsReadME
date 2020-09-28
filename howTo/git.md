@@ -101,3 +101,8 @@
     - "fixup" of previous commit, which automatically retains its original description
     - "edit" the contents and description of commit
 ```
+
+## Remove current origin repository after clone 
+```
+$ git remote remove origin
+```
