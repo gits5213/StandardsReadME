@@ -4,7 +4,7 @@
 * [Download GIT](#Download-GIT)
 * [Download for macOS](#Download-for-macOS)
 * [SignUP GITHub](#SignUP-GITHub)
-* [Colone the GitHub Repository](#Colone-the-GitHub-Repository)
+* [Colone the GitHub Repository](#Clone-the-GitHub-Repository)
 * [Getting and Creating Projects](#Getting-and-Creating-Projects)
 * [Basic Snapshotting](#Basic-Snapshotting)
 * [Branching and Merging](#Branching-and-Merging)
