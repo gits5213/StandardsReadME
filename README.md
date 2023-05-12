@@ -9,6 +9,7 @@ Jump into any of these topics!
     * List of Topics for Git & GitHub
         - [How to: Download and Install GIT & First time set up GITHub](./howTo/git.md)
         - [How to: Set up SSH Key for Mac & Windows](./howTo/ssh.md)
+        - [BRANCH_NAME_PULL_REQUEST_STANDARD](./howTo/BRANCH_NAME_PULL_REQUEST_STANDARD.md)
 
     * List of Topics for CMD & Terminal 
         - [Day to Day Unix/Linux Command](./howTo/linux.md)
